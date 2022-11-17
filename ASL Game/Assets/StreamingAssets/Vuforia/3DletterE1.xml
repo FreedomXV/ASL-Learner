@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="3DletterE1" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="3DletterE1s_assembly" assemblyId="40f9752e2a4e468a9f81c3e8990cf932">
+<Part name="3DletterE1" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0684005 0.0317926 0.419744" rotation="AD: 0.99999 0.0131529 -0.365003 183.877" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

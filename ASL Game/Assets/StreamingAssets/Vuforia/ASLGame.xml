@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="IMG_0104" size="1248.000000 2319.000000" />
+    <ImageTarget name="letterDglove" size="1397.000000 3008.000000" />
+    <ImageTarget name="letterCglove" size="1715.000000 2986.000000" />
+    <ImageTarget name="letterBglove" size="1323.000000 3569.000000" />
+    <ImageTarget name="letterAglove" size="1349.000000 2427.000000" />
+  </Tracking>
+</QCARConfig>

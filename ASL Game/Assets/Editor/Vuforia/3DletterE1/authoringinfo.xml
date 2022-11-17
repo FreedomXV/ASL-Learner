@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.11.3">
+<ModelTarget name="3DletterE1" targetId="458eb0e9675c4f48b6a969661d7e5077" version="14.0" toolVersion="10.11.3" bbox="-0.142244 -0.045652 -0.070358 -0.007026 0.114351 0.038403" previewImage="458eb0e9675c4f48b6a969661d7e5077_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="3DletterE1s_assembly" assemblyId="40f9752e2a4e468a9f81c3e8990cf932">
+<Part name="3DletterE1" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0684005 0.0317926 0.419744" rotation="AD: 0.99999 0.0131529 -0.365003 183.877" image="3DletterE1_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
